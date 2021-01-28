@@ -4,25 +4,121 @@
   "description": "Teste os seus conhecimentos sobre The Office",
   "questions": [
     {
-      "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
-      "description": "Essa é pra aquecer",
+      "image": "https://media.giphy.com/media/aLwtkCV5IKfdrBkQOh/giphy.gif",
+        "title": "No primeiro episódio de \"The Office\", qual o objeto que Jim Halpert coloca na gelatina?",
+        "description": "Essa é pra aquecer",
+        "answer": 0,
+        "alternatives": [
+          "Grampeador do Dwight",
+          "Caneta do Michael"
+        ]
+      },
+    {
+      "image": "https://media.giphy.com/media/uAd9XAvenvFLmFu2Kw/giphy.gif",
+      "title": "Dwight tem uma fazenda de:",
+      "description": "Muito fácil",
       "answer": 2,
       "alternatives": [
-        ".elemento",
-        "*elemento",
-        "#elemento",
-        "%elemento"
+        "Laranjas",
+        "Maçãs",
+        "Beterrabas",
+        "Morango"
       ]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
-      "description": "Faz tempo em haha",
+      "image": "https://media.giphy.com/media/QhMH2axuzWHjYGkEZ2/giphy.gif",
+      "title": "No episódio em que Jim e Pam estavam na fazenda do Dwight, quando Jim e Pam foram dormir, Tinha um barulho estranho que a Pam foi ver o que era. O barulho era do que?",
+      "description": "4ª temporada",
+      "answer": 1,
+      "alternatives": [
+        "O choro do Dwight",
+        "A porta do banheiro de fora de casa batendo",
+        "O primo do Dwight batendo em um saco de pancadas",
+        "Um cão latindo"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/bZH1tLNrFnnEiMEEy5/giphy.gif",
+      "title": "Qual dos gatos de Angela Dwight congela?",
+      "description": "Fácil",
+      "answer": 1,
+      "alternatives": [
+        "Bandit",
+        "Sprinkles",
+        "Sparkles",
+        "Fluffy"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/rH4wuK20VsiS4MhkAm/giphy.gif",
+      "title": "No primeiro episódio da série, quando Ryan conhece Michael Scott, Michael faz uma imitação. Quem ele imitou?",
+      "description": "Fácil",
+      "answer": 2,
+      "alternatives": [
+        "Darth Vader",
+        "Moe Howard",
+        "Adolf Hitler",
+        "Hobbit"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/zoX1IY7aMuEoMGrHul/giphy.gif",
+      "title": "Qual é o nome do segundo episódio de \"The Office\"?",
+      "description": "",
       "answer": 0,
       "alternatives": [
-          "background: linear-gradient(#e66465, #9198e5);",
-          "background: gradient(#e66465, #9198e5);"
+        "Dia da Diversidade",
+        "Basquete",
+        "A Luta",
+        "Piloto"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/vfi3QZdmwsiQ0/giphy.gif",
+      "title": "Quem era o noivo da Pam na primeira temporada da série?",
+      "description": "Fácil",
+      "answer": 3,
+      "alternatives": [
+        "Michael",
+        "Ryan",
+        "Jim",
+        "Roy"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/hyyV7pnbE0FqLNBAzs/giphy.gif",
+      "title": "Na filial em que Michael Scott trabalha, tem uma pessoa que Michael não suporta. Quem é essa pessoa?",
+      "description": "Muito Fácil",
+      "answer": 3,
+      "alternatives": [
+        "Stanley",
+        "Dwight",
+        "Jim",
+        "Toby"
+      ]
+    },
+    {
+    "image": "https://media.giphy.com/media/e00SErcpgqmw7KdvzX/giphy.gif",
+      "title": "No episódio em que Dwight salva Jim usando um spray de pimenta, ele conta por quanto tempo ele trazia spray de pimenta até esse dia em que ele salva Jim. Quanto tempo era?",
+      "description": "Difícil",
+      "answer": 2,
+      "alternatives": [
+        "7 anos",
+        "6 anos",
+        "8 anos",
+        "5 anos"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/B9KKBuOIp4zqI7Cll0/giphy.gif",
+      "title": "Antes de Andy ir para a filial de Scranthon, ele era da filial de: ",
+      "description": "",
+      "answer": 0,
+      "alternatives": [
+        "Stamford",
+        "Las Vegas",
+        "Miami",
+        "New York"
       ]
     }
   ],
